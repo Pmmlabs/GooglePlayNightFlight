@@ -11,3 +11,17 @@ Hosted at [userstyles.org](http://userstyles.org/styles/96131)
  [ ![after_nexus](http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/screenshots/after_nexus_th.png) ](http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/screenshots/after_nexus.png)
  
 You are welcome to contribute!
+
+### Changelog
+
+11.01.2014 - всплывашка о пользователе и блок с ответом разработчика
+09.01.2014 - Верхняя панелька и кнопка "предыдущий"
+05.01.2014 - захостил стиль на гитхабе
+25.12.2013 - исправление для левого навигационного блока
+24.12.2013 - исправления для списка устройств и блока google translate
+15.12.2013 - исправления по результатам тестирования
+14.12.2013 - начальная версия, возможны белые блоки
+
+
+
+
