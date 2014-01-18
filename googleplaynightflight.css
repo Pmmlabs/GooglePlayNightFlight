@@ -17,7 +17,7 @@ body {
 	background: none !important;
 }
 /* text */
-.title, .play-button.small.disabled, .track-list-row, .redeem-title, .play-button.apps, .play-button.books, .play-button.devices, .play-button.magazines, .play-button.movies, .play-button.music, .play-button.tv, .play-button.neutral, .ctp-header.no-banner, .cast-credit .cc-row-label, .empty-lib-p, .centered-text, #gb a.gb_H.gb_H, .secondary-sub-nav-option .sub-nav-link, .permissions-container .perm-description, .purchase-header .subtitle, .purchase-header .price, .purchase-header .instrument, .card .description, .card-click-target, .card .reason, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .action-bar-dropdown, .action-bar-link, .review-filter, .A8, .meta-info .title, .whatsnew .recent-change, .rating-box .rating-bar-container, .review-title, .score-container .score, .score-container .reviews-stats, .rating-box .bar-number, .details-section .heading, .details-section.description.simple .text-body, .header-star-badge, .play-button, .app-compatibility-final, .info-container .document-subtitle, body, button, input, select, textarea, .info-container .document-title, .app-compatibility-initial span, .purchase-confirm, .action-bar-title, .cluster-heading .subtitle, .featured-review .author-name, .rj, .Ug, .GHK2A-RDJU, .GHK2A-RDPEB h3, .GHK2A-RDAHB li, h1 {
+.title, .play-button.small.disabled, .track-list-row, .redeem-title, .play-button.apps, .play-button.books, .play-button.devices, .play-button.magazines, .play-button.movies, .play-button.music, .play-button.tv, .play-button.neutral, .ctp-header.no-banner, .cast-credit .cc-row-label, .empty-lib-p, .centered-text, #gb a.gb_H.gb_H, .secondary-sub-nav-option .sub-nav-link, .permissions-container .perm-description, .purchase-header .subtitle, .purchase-header .price, .purchase-header .instrument, .card .description, .card-click-target, .card .reason, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .action-bar-dropdown, .action-bar-link, .review-filter, .A8, .meta-info .title, .whatsnew .recent-change, .rating-box .rating-bar-container, .review-title, .score-container .score, .score-container .reviews-stats, .rating-box .bar-number, .details-section .heading, .details-section.description.simple .text-body, .header-star-badge, .play-button, .app-compatibility-final, .info-container .document-subtitle, body, button, input, select, textarea, .info-container .document-title, .app-compatibility-initial span, .purchase-confirm, .action-bar-title, .cluster-heading .subtitle, .featured-review .author-name, .rj, .Ug, .GHK2A-RDJU, .GHK2A-RDPEB h3, .GHK2A-RDAHB li, h1, .GHK2A-RDFT, .GHK2A-RDHT, .GC1JCF1CDJC h3, .GC1JCF1CAJC, .GC1JCF1CP3 {
 	color: white !important;
 }
 /* links */
@@ -30,14 +30,14 @@ a:link, a:visited, a:active {
 	border: none !important;
 	box-shadow: 0 0 4px white;
 }
-.gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .gb_ib, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-compatibility-device-list, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX {
+.gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .gb_ib, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-compatibility-device-list, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX, .gwt-PopupPanel, .gwt-DialogBox, .GC1JCF1CKMC, .GC1JCF1CDKC:hover {
 	background-color: rgba(0, 0, 0, 0.6) !important;
 }
-.hover-target:hover, .overflow-menu-item:hover, .track-list-row:hover td, .track-list-row.playing td, .track-list-row.loading td, .device-table, .apps .ctp-header.no-banner, .ac-active, .gb_t, .Bc, .gb_r, .device-selected, .device-selector-dropdown-child:hover, .permissions-container, .modal-dialog-overlay, .action-bar, .details-info, .review-panel-content, .footer {
+.hover-target:hover, .overflow-menu-item:hover, .track-list-row:hover td, .track-list-row.playing td, .track-list-row.loading td, .device-table, .apps .ctp-header.no-banner, .ac-active, .gb_t, .Bc, .gb_r, .device-selected, .device-selector-dropdown-child:hover, .permissions-container, .modal-dialog-overlay, .action-bar, .details-info, .review-panel-content, .footer, .GC1JCF1CIKC, .GC1JCF1CDKC.GC1JCF1CCKC {
 	background-color: rgba(0, 0, 0, 0.4) !important;
 }
 /* white */
-.overflow-menu-button:hover, .overflow-menu, .overflow-menu-button-highlighted, .gb_a:hover .gb_h, .gb_u, .Gb.WK, .dropdown-menu:hover, .expand-button .play-button, .nav .menu-link, .card-content, select, textarea, .nav .secondary-sub-nav-option:hover, .nav .sub-nav-option:hover, .gbqfqw, #search-box, .purchase-confirm, .GHK2A-RDMFB, .GHK2A-RDKFB, .GHK2A-RDAHB li {
+.overflow-menu-button:hover, .overflow-menu, .overflow-menu-button-highlighted, .gb_a:hover .gb_h, .gb_u, .Gb.WK, .dropdown-menu:hover, .expand-button .play-button, .nav .menu-link, .card-content, select, textarea, .nav .secondary-sub-nav-option:hover, .nav .sub-nav-option:hover, .gbqfqw, #search-box, .purchase-confirm, .GHK2A-RDMFB, .GHK2A-RDKFB, .GHK2A-RDAHB li, .gwt-TextBox, .GC1JCF1CKAC, .GC1JCF1CP3 {
 	background-color: rgba(255, 255, 255, 0.1) !important;
 }
 .nav .apps .selected .hover-target, .play-button.apps { /* green */
@@ -50,7 +50,7 @@ a:link, a:visited, a:active {
 	height: auto !important;
 	width:60% !important;
 }
-.GHK2A-RDDGB, .GHK2A-RDAGB {
+.GHK2A-RDDGB, .GHK2A-RDAGB, .GC1JCF1CKMC {
 	border-right: none !important;
 }
 .GHK2A-RDAHB li:before, .GHK2A-RDAHB li:before {
@@ -68,7 +68,7 @@ a:link, a:visited, a:active {
 	-khtml-border-radius: 5px !important;
 	text-shadow: none !important;
 }
-.footer-links-container, .details-info {
+.footer-links-container, .details-info, .GC1JCF1CN1 {
 	border: none !important;
 }
 .card .consume-link, .card .price, .no-purchases-message, .action-bar-title, .title, .leaf-submenu-link, .parent-submenu-link, .child-submenu-link, .rj, .Ug, .rating-box .bar-number { /* more readable! */
@@ -134,5 +134,20 @@ a:link, a:visited, a:active {
 }
 .dropdown-icon {
 	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dropdown.png") !important;
+}
+.GC1JCF1COYB {
+	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev1.png") !important;
+}
+.GC1JCF1CIHB {
+	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev2.png") !important;
+}
+.GC1JCF1CPYB {
+	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev3.png") !important;
+}
+.GC1JCF1CCAB {
+	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev4.png") !important;
+}
+.GC1JCF1CN1 {
+	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/lines.png") !important;
 }
 }
