@@ -13,11 +13,11 @@ body {
 .background-gradient-container.gradient-right, li[style^="left: -48px; display: block"] {
 	display: none !important;
 }
-.device-editing-toggle input, .no-banner .ctp-header-content, .fc, .header, .search-panel .suggestions-container, .nav .store .sub-nav, .cluster-background, .show-more-end, #footer-content, .expand-close.play-button, .dropdown-menu-container.open .dropdown-menu, .dropdown-menu:active, .show-all-hover-zone, .card .price, .paragraph-end, .card .reason-set, .card .cover, .card.apps .cover, .card.devices .cover, .card.people .cover, .rating-box, .paragraph-end.details-light, html, .GHK2A-RDLFB {
+.device-editing-toggle input, .no-banner .ctp-header-content, .fc, .header, .search-panel .suggestions-container, .nav .store .sub-nav, .cluster-background, .show-more-end, #footer-content, .expand-close.play-button, .dropdown-menu-container.open .dropdown-menu, .dropdown-menu:active, .show-all-hover-zone, .card .price, .paragraph-end, .card .reason-set, .card .cover, .card.apps .cover, .card.devices .cover, .card.people .cover, .rating-box, .paragraph-end.details-light, html, .GHK2A-RDLFB, .GC1JCF1COAB > div, .GC1JCF1COAB > aside, .GC1JCF1CIAB {
 	background: none !important;
 }
 /* text */
-.title, .play-button.small.disabled, .track-list-row, .redeem-title, .play-button.apps, .play-button.books, .play-button.devices, .play-button.magazines, .play-button.movies, .play-button.music, .play-button.tv, .play-button.neutral, .ctp-header.no-banner, .cast-credit .cc-row-label, .empty-lib-p, .centered-text, #gb a.gb_H.gb_H, .secondary-sub-nav-option .sub-nav-link, .permissions-container .perm-description, .purchase-header .subtitle, .purchase-header .price, .purchase-header .instrument, .card .description, .card-click-target, .card .reason, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .action-bar-dropdown, .action-bar-link, .review-filter, .A8, .meta-info .title, .whatsnew .recent-change, .rating-box .rating-bar-container, .review-title, .score-container .score, .score-container .reviews-stats, .rating-box .bar-number, .details-section .heading, .details-section.description.simple .text-body, .header-star-badge, .play-button, .app-compatibility-final, .info-container .document-subtitle, body, button, input, select, textarea, .info-container .document-title, .app-compatibility-initial span, .purchase-confirm, .action-bar-title, .cluster-heading .subtitle, .featured-review .author-name, .rj, .Ug, .GHK2A-RDJU, .GHK2A-RDPEB h3, .GHK2A-RDAHB li, h1, .GHK2A-RDFT, .GHK2A-RDHT, .GC1JCF1CDJC h3, .GC1JCF1CAJC, .GC1JCF1CP3 {
+.title, .play-button.small.disabled, .track-list-row, .redeem-title, .play-button.apps, .play-button.books, .play-button.devices, .play-button.magazines, .play-button.movies, .play-button.music, .play-button.tv, .play-button.neutral, .ctp-header.no-banner, .cast-credit .cc-row-label, .empty-lib-p, .centered-text, #gb a.gb_H.gb_H, .secondary-sub-nav-option .sub-nav-link, .permissions-container .perm-description, .purchase-header .subtitle, .purchase-header .price, .purchase-header .instrument, .card .description, .card-click-target, .card .reason, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .action-bar-dropdown, .action-bar-link, .review-filter, .A8, .meta-info .title, .whatsnew .recent-change, .rating-box .rating-bar-container, .review-title, .score-container .score, .score-container .reviews-stats, .rating-box .bar-number, .details-section .heading, .details-section.description.simple .text-body, .header-star-badge, .play-button, .app-compatibility-final, .info-container .document-subtitle, body, input, select, textarea, .info-container .document-title, .app-compatibility-initial span, .purchase-confirm, .action-bar-title, .cluster-heading .subtitle, .featured-review .author-name, .rj, .Ug, .GHK2A-RDJU, .GHK2A-RDPEB h3, .GHK2A-RDAHB li, h1, .GHK2A-RDFT, .GHK2A-RDHT, .GC1JCF1CDJC h3, .GC1JCF1CAJC, .GC1JCF1CP3, .GC1JCF1CL2, .GC1JCF1CO1, .GC1JCF1CG4, .GC1JCF1CL2, .GC1JCF1CJ1, .GC1JCF1CL1, .GC1JCF1CIVD, .GC1JCF1CH1, .GC1JCF1CH1 {
 	color: white !important;
 }
 /* links */
@@ -30,10 +30,10 @@ a:link, a:visited, a:active {
 	border: none !important;
 	box-shadow: 0 0 4px white;
 }
-.gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .gb_ib, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-compatibility-device-list, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX, .gwt-PopupPanel, .gwt-DialogBox, .GC1JCF1CKMC, .GC1JCF1CDKC:hover {
+.gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .gb_ib, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-compatibility-device-list, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX, .gwt-PopupPanel, .gwt-DialogBox, .GC1JCF1CKMC, .GC1JCF1CDKC:hover, .gwt-PopupPanelGlass, .GC1JCF1COAB sidebar li:hover, .GC1JCF1CEY {
 	background-color: rgba(0, 0, 0, 0.6) !important;
 }
-.hover-target:hover, .overflow-menu-item:hover, .track-list-row:hover td, .track-list-row.playing td, .track-list-row.loading td, .device-table, .apps .ctp-header.no-banner, .ac-active, .gb_t, .Bc, .gb_r, .device-selected, .device-selector-dropdown-child:hover, .permissions-container, .modal-dialog-overlay, .action-bar, .details-info, .review-panel-content, .footer, .GC1JCF1CIKC, .GC1JCF1CDKC.GC1JCF1CCKC {
+.hover-target:hover, .overflow-menu-item:hover, .track-list-row:hover td, .track-list-row.playing td, .track-list-row.loading td, .device-table, .apps .ctp-header.no-banner, .ac-active, .gb_t, .Bc, .gb_r, .device-selected, .device-selector-dropdown-child:hover, .permissions-container, .modal-dialog-overlay, .action-bar, .details-info, .review-panel-content, .footer, .GC1JCF1CIKC, .GC1JCF1CDKC.GC1JCF1CCKC, .GC1JCF1CGAC, .GC1JCF1CGY.GC1JCF1CMX, .GC1JCF1COAB sidebar li.GC1JCF1CABB, .GC1JCF1CEY.GC1JCF1COX, .purchase-row {
 	background-color: rgba(0, 0, 0, 0.4) !important;
 }
 /* white */
@@ -71,14 +71,17 @@ a:link, a:visited, a:active {
 .footer-links-container, .details-info, .GC1JCF1CN1 {
 	border: none !important;
 }
-.card .consume-link, .card .price, .no-purchases-message, .action-bar-title, .title, .leaf-submenu-link, .parent-submenu-link, .child-submenu-link, .rj, .Ug, .rating-box .bar-number { /* more readable! */
+.card .consume-link, .card .price, .no-purchases-message, .action-bar-title, .title, .leaf-submenu-link, .parent-submenu-link, .child-submenu-link, .rj, .Ug, .rating-box .bar-number, .gwt-Anchor.GC1JCF1CNIC.GC1JCF1CFAB.GC1JCF1CFYB { /* more readable! */
 	text-shadow: 2px 2px 1px black;
 }
 .cluster-background .background-image {
 	opacity: 0.3 !important;
 }
-.box-arrow-up {
+.box-arrow-up, .GC1JCF1COAB sidebar ol {
 	border-bottom-color: rgba(0, 0, 0, 0.6) !important;
+}
+.GC1JCF1COAB > aside {	/* developer->settings */
+	border-right-color: rgba(0, 0, 0, 0.6) !important;
 }
 /* IMAGES */
 .expand-next .button-image, .expand-next .arrow-image {
@@ -149,5 +152,11 @@ a:link, a:visited, a:active {
 }
 .GC1JCF1CN1 {
 	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/lines.png") !important;
+}
+.GC1JCF1CKAC {
+	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/search.png") !important;
+}
+.GC1JCF1CF5 {
+	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/wallet.png") !important;
 }
 }
