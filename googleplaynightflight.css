@@ -13,7 +13,7 @@ body {
 .background-gradient-container.gradient-right, li[style^="left: -48px; display: block"] {
 	display: none !important;
 }
-.device-editing-toggle input, .no-banner .ctp-header-content, .fc, .header, .search-panel .suggestions-container, .nav .store .sub-nav, .cluster-background, .show-more-end, #footer-content, .expand-close.play-button, .dropdown-menu-container.open .dropdown-menu, .dropdown-menu:active, .show-all-hover-zone, .card .price, .paragraph-end, .card .reason-set, .card .cover, .card.apps .cover, .card.devices .cover, .card.people .cover, .rating-box, .paragraph-end.details-light, html, .GHK2A-RDLFB, .GC1JCF1COAB > div, .GC1JCF1COAB > aside, .GC1JCF1CIAB, .GC1JCF1CBVB, .GC1JCF1CAVB, .GC1JCF1CPTD > div, .GC1JCF1CK3, .GC1JCF1COV, .GC1JCF1CNV, .GC1JCF1CFTD option, #close-dialog-button {
+.device-editing-toggle input, .no-banner .ctp-header-content, .fc, .header, .search-panel .suggestions-container, .nav .store .sub-nav, .cluster-background, .show-more-end, #footer-content, .expand-close.play-button, .dropdown-menu-container.open .dropdown-menu, .dropdown-menu:active, .show-all-hover-zone, .card .price, .paragraph-end, .card .reason-set, .card .cover, .card.apps .cover, .card.devices .cover, .card.people .cover, .rating-box, .paragraph-end.details-light, html, .GHK2A-RDLFB, .GC1JCF1COAB > div, .GC1JCF1COAB > aside, .GC1JCF1CIAB, .GC1JCF1CBVB, .GC1JCF1CAVB, .GC1JCF1CPTD > div, .GC1JCF1CK3, .GC1JCF1COV, .GC1JCF1CNV, .GC1JCF1CFTD option, #close-dialog-button, .card .placeholder-background {
 	background: none !important;
 }
 /* text */
@@ -25,19 +25,19 @@ a:link, a:visited, a:active {
 	color: /*[[linkcolor]]*/ !important;
 }
 /* blocks */
-.empty-library, .nav-container {
+.empty-library, .nav-container, .app-compatibility-device-list {
 	background: rgba(0, 0, 0, 0.3) !important;
 	border: none !important;
-	box-shadow: 0 0 4px white;
+	box-shadow: 0 0 4px white !important;
 }
-.gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .gb_ib, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-compatibility-device-list, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX, .gwt-PopupPanel, .gwt-DialogBox, .GC1JCF1CKMC, .GC1JCF1CDKC:hover, .gwt-PopupPanelGlass, .GC1JCF1COAB sidebar li:hover, .GC1JCF1CEY, #search-section.rounded {
+.gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .gb_ib, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX, .gwt-PopupPanel, .gwt-DialogBox, .GC1JCF1CKMC, .GC1JCF1CDKC:hover, .gwt-PopupPanelGlass, .GC1JCF1COAB sidebar li:hover, .GC1JCF1CEY, #search-section.rounded {
 	background-color: rgba(0, 0, 0, 0.6) !important;
 }
-.hover-target:hover, .overflow-menu-item:hover, .track-list-row:hover td, .track-list-row.playing td, .track-list-row.loading td, .device-table, .apps .ctp-header.no-banner, .ac-active, .gb_t, .Bc, .gb_r, .device-selected, .device-selector-dropdown-child:hover, .permissions-container, .modal-dialog-overlay, .action-bar, .details-info, .review-panel-content, .footer, .GC1JCF1CIKC, .GC1JCF1CDKC.GC1JCF1CCKC, .GC1JCF1CGAC, .GC1JCF1CGY.GC1JCF1CMX, .GC1JCF1COAB sidebar li.GC1JCF1CABB, .GC1JCF1CEY.GC1JCF1COX, .purchase-row, .GC1JCF1CPAD, .GC1JCF1CDHD, .GC1JCF1CAUD > li, ol.GC1JCF1CA2, .GC1JCF1CAAC, .GC1JCF1CIV:hover, .GC1JCF1CIW:hover, .GC1JCF1CLAC {
+.hover-target:hover, .overflow-menu-item:hover, .track-list-row:hover td, .track-list-row.playing td, .track-list-row.loading td, .device-table, .apps .ctp-header.no-banner, .ac-active, .gb_t, .Bc, .gb_r, .device-selected, .device-selector-dropdown-child:hover, .permissions-container, .modal-dialog-overlay, .action-bar, .details-info, .review-panel-content, .footer, .GC1JCF1CIKC, .GC1JCF1CDKC.GC1JCF1CCKC, .GC1JCF1CGAC, .GC1JCF1CGY.GC1JCF1CMX, .GC1JCF1COAB sidebar li.GC1JCF1CABB, .GC1JCF1CEY.GC1JCF1COX, .purchase-row, .GC1JCF1CPAD, .GC1JCF1CDHD, .GC1JCF1CAUD > li, ol.GC1JCF1CA2, .GC1JCF1CAAC, .GC1JCF1CIV:hover, .GC1JCF1CIW:hover, .GC1JCF1CLAC, .rated-scrim {
 	background-color: rgba(0, 0, 0, 0.4) !important;
 }
 /* white */
-input[type="text"], .overflow-menu-button:hover, .overflow-menu, .overflow-menu-button-highlighted, .gb_a:hover .gb_h, .gb_u, .Gb.WK, .dropdown-menu:hover, .expand-button .play-button, .nav .menu-link, .card-content, select, textarea, .nav .secondary-sub-nav-option:hover, .nav .sub-nav-option:hover, .gbqfqw, #search-box, .purchase-confirm, .GHK2A-RDMFB, .GHK2A-RDKFB, .GHK2A-RDAHB li, .gwt-TextBox, .GC1JCF1CKAC, .GC1JCF1CP3, .GC1JCF1CKWB:hover, .GC1JCF1CKXB:hover  {
+.overflow-menu-button:hover, .overflow-menu, .overflow-menu-button-highlighted, .gb_a:hover .gb_h, .gb_u, .Gb.WK, .dropdown-menu:hover, .expand-button .play-button, .nav .menu-link, .card-content, select, textarea, .nav .secondary-sub-nav-option:hover, .nav .sub-nav-option:hover, .gbqfqw, #search-box, .purchase-confirm, .GHK2A-RDMFB, .GHK2A-RDKFB, .GHK2A-RDAHB li, .gwt-TextBox, .GC1JCF1CKAC, .GC1JCF1CP3, .GC1JCF1CKWB:hover, .GC1JCF1CKXB:hover  {
 	background-color: rgba(255, 255, 255, 0.1) !important;
 }
 .nav .apps .selected .hover-target, .play-button.apps { /* green */
@@ -161,5 +161,5 @@ input[type="text"], .overflow-menu-button:hover, .overflow-menu, .overflow-menu-
 }
 .GC1JCF1CNAB div {
 	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/v.png") !important;
-}
+} /* ') -- */
 }
