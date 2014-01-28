@@ -25,12 +25,12 @@ a:link, a:visited, a:active {
 	color: /*[[linkcolor]]*/ !important;
 }
 /* blocks */
-.empty-library, .nav-container, .app-compatibility-device-list, .sub-nav-quick-link, .play-contained {
+.empty-library, .nav-container, .app-compatibility-device-list, .sub-nav-quick-link, .play-contained, .gb_s {
 	background: rgba(0, 0, 0, 0.3) !important;
 	border: none !important;
 	box-shadow: 0 0 4px white !important;
 }
-.gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .gb_ib, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX, .gwt-PopupPanel, .gwt-DialogBox, .GC1JCF1CKMC, .GC1JCF1CDKC:hover, .gwt-PopupPanelGlass, .GC1JCF1COAB sidebar li:hover, .GC1JCF1CEY, #search-section.rounded, .action-bar-link.action-bar-cart-item.play-button.small, .play-button.large, .gb_jb, .gb_v, .menu-link.id-no-menu-change.not-selected, #play-header, .redeem-term-links, #maia-footer-global {
+.gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX, .gwt-PopupPanel, .gwt-DialogBox, .GC1JCF1CKMC, .GC1JCF1CDKC:hover, .gwt-PopupPanelGlass, .GC1JCF1COAB sidebar li:hover, .GC1JCF1CEY, #search-section.rounded, .action-bar-link.action-bar-cart-item.play-button.small, .play-button.large, .gb_v, .menu-link.id-no-menu-change.not-selected, #play-header, .redeem-term-links, #maia-footer-global, .gb_jb.gb_Hb, .gb_0 {
 	background-color: rgba(0, 0, 0, 0.6) !important;
 }
 .hover-target:hover, .play-button.wishlist-content.wishlist-remove, .overflow-menu-item:hover, .track-list-row:hover td, .track-list-row.playing td, .track-list-row.loading td, .device-table, .apps .ctp-header.no-banner, .ac-active, .gb_t, .Bc, .gb_r, .device-selected, .device-selector-dropdown-child:hover, .permissions-container, .modal-dialog-overlay, .action-bar, .details-info, .review-panel-content, .footer, .GC1JCF1CIKC, .GC1JCF1CDKC.GC1JCF1CCKC, .GC1JCF1CGAC, .GC1JCF1CGY.GC1JCF1CMX, .GC1JCF1COAB sidebar li.GC1JCF1CABB, .GC1JCF1CEY.GC1JCF1COX, .purchase-row, .GC1JCF1CPAD, .GC1JCF1CDHD, .GC1JCF1CAUD > li, ol.GC1JCF1CA2, .GC1JCF1CAAC, .GC1JCF1CIV:hover, .GC1JCF1CIW:hover, .GC1JCF1CLAC, .rated-scrim, .action-bar-aux .action-bar-link:hover, #maia-footer-local {
@@ -57,7 +57,7 @@ a:link, a:visited, a:active {
 	border-left: 40px solid rgba(255, 255, 255, 0.1) !important;
 }
 /* headers & buttons */
-#purchase-cancel-button, .device-selector-button.play-button, .play-button.track-click, #show-more-button, .play-button.grey, #sign-in-button, #cancel-sign-in, .play-button.show-more.small, .action-bar-link.action-bar-help.play-button.small, .action-bar-item.settings-gear-menu.play-button.small,  .write-button.play-button, .play-button.wishlist-content.wishlist-yet-to-add, .id-write-button.play-button, .play-button.id-app-translation-toggle.small, .play-button.id-track-click, .cta.cta-to-product {
+#purchase-cancel-button, .device-selector-button.play-button, .play-button.track-click, #show-more-button, .play-button.grey, #sign-in-button, #cancel-sign-in, .play-button.show-more.small, .action-bar-link.action-bar-help.play-button.small, .action-bar-item.settings-gear-menu.play-button.small,  .write-button.play-button, .play-button.wishlist-content.wishlist-yet-to-add, .id-write-button.play-button, .play-button.id-app-translation-toggle.small, .play-button.id-track-click, .cta.cta-to-product, .gb_nb.gbp1.gb_F, .gb_F {
 	background: -moz-linear-gradient(top, #444444 0%, #222222 52%, #222222 99%) !important; /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#444444), color-stop(52%,#222222), color-stop(99%,#222222))  !important; /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top, #444444 0%,#222222 52%,#222222 99%)  !important; /* Chrome10+,Safari5.1+ */
@@ -71,7 +71,7 @@ a:link, a:visited, a:active {
 .footer-links-container, .details-info, .GC1JCF1CN1 {
 	border: none !important;
 }
-.card .consume-link, .card .price, .no-purchases-message, .action-bar-title, .title, .leaf-submenu-link, .parent-submenu-link, .child-submenu-link, .rj, .Ug, .rating-box .bar-number, .gwt-Anchor.GC1JCF1CNIC.GC1JCF1CFAB.GC1JCF1CFYB { /* more readable! */
+.card .consume-link, .card .price, .no-purchases-message, .action-bar-title, .title, .leaf-submenu-link, .parent-submenu-link, .child-submenu-link, .rj, .Ug, .rating-box .bar-number, .gwt-Anchor.GC1JCF1CNIC.GC1JCF1CFAB.GC1JCF1CFYB, .gb_h, .gb_w.gb_lb { /* more readable! */
 	text-shadow: 2px 2px 1px black;
 }
 .cluster-background .background-image {
