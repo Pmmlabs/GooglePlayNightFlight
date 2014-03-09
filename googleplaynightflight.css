@@ -13,7 +13,7 @@ body {
 .background-gradient-container.gradient-right, li[style^="left: -48px; display: block"] {
 	display: none !important;
 }
-.device-editing-toggle input, .no-banner .ctp-header-content, .fc, .header, .search-panel .suggestions-container, .nav .store .sub-nav, .cluster-background, .show-more-end, #footer-content, .expand-close.play-button, .dropdown-menu-container.open .dropdown-menu, .dropdown-menu:active, .show-all-hover-zone, .card .price, .paragraph-end, .card .reason-set, .card .cover, .card.apps .cover, .card.devices .cover, .card.people .cover, .rating-box, .paragraph-end.details-light, html, .GHK2A-RDLFB, .GC1JCF1COAB > div, .GC1JCF1COAB > aside, .GC1JCF1CIAB, .GC1JCF1CBVB, .GC1JCF1CAVB, .GC1JCF1CPTD > div, .GC1JCF1CK3, .GC1JCF1COV, .GC1JCF1CNV, .GC1JCF1CFTD option, #close-dialog-button, .card .placeholder-background, .rated-scrim, .card.tiny .acquired-label, .sub-nav-link.id-no-menu-change.id-no-nav, .action-bar-dropdown-top, .sub-nav-link.id-no-menu-change.topup-link, .base-dialog-image-container, #maia-footer, .maia-locales select, .gb_ub, .gb_g.gb_k {
+.device-editing-toggle input, .no-banner .ctp-header-content, .fc, .header, .search-panel .suggestions-container, .nav .store .sub-nav, .cluster-background, .show-more-end, #footer-content, .expand-close.play-button, .dropdown-menu-container.open .dropdown-menu, .dropdown-menu:active, .show-all-hover-zone, .card .price, .paragraph-end, .card .reason-set, .card .cover, .card.apps .cover, .card.devices .cover, .card.people .cover, .rating-box, .paragraph-end.details-light, html, .GHK2A-RDLFB, .GC1JCF1COAB > div, .GC1JCF1COAB > aside, .GC1JCF1CIAB, .GC1JCF1CBVB, .GC1JCF1CAVB, .GC1JCF1CPTD > div, .GC1JCF1CK3, .GC1JCF1COV, .GC1JCF1CNV, .GC1JCF1CFTD option, #close-dialog-button, .card .placeholder-background, .rated-scrim, .card.tiny .acquired-label, .sub-nav-link.id-no-menu-change.id-no-nav, .action-bar-dropdown-top, .sub-nav-link.id-no-menu-change.topup-link, .base-dialog-image-container, #maia-footer, .maia-locales select, .gb_ub, .gb_g.gb_k, .menu-link.id-no-menu-change.selected[style$="rgb(179, 200, 51);"] {
 	background: none !important;
 }
 /* text */
@@ -25,7 +25,7 @@ a:link, a:visited, a:active {
 	color: /*[[linkcolor]]*/ !important;
 }
 /* blocks */
-.empty-library, .nav-container, .app-compatibility-device-list, .sub-nav-quick-link, .play-contained, .gb_s {
+.empty-library, .nav-container, .app-compatibility-device-list, .sub-nav-quick-link, .play-contained {
 	background-color: rgba(0, 0, 0, 0.3) !important;
 	border: none !important;
 	box-shadow: 0 0 4px white !important;
@@ -93,8 +93,8 @@ a:link, a:visited, a:active {
 .card.magazines .consume-link, .card.magazines .price { /* magazines price color, light blue */
 	color: #a8c3ff !important;
 }
-.tiny .price.buy, .gb_pb .gb_r {	/* small displays fix; share button fix */
-	background: #2A2A2A !important;
+.tiny .price.buy, .gb_yb.gb_h {	/* small displays fix; share button fix */
+	background-color: #2A2A2A !important;
 }
 /* IMAGES */
 .expand-next .button-image, .expand-next .arrow-image {
@@ -119,7 +119,7 @@ a:link, a:visited, a:active {
 	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/settings.png") !important;
 }
 .gb_h {
-	background-image: url("http://raw2.github.com/Pmmlabs/GooglePlayNightFlight/master/images/icons.png") !important;
+	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/icons.png") !important;
 }
 .wishlist-yet-to-add .wishlist-icon {
 	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/b.png") !important;
