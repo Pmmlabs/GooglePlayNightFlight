@@ -30,7 +30,7 @@ a:link, a:visited, a:active {
 	border: none !important;
 	box-shadow: 0 0 4px white !important;
 }
-.gb_Ub, .gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX, .gwt-PopupPanel, .gwt-DialogBox, .GC1JCF1CKMC, .GC1JCF1CDKC:hover, .gwt-PopupPanelGlass, .GC1JCF1COAB sidebar li:hover, .GC1JCF1CEY, #search-section.rounded, .action-bar-link.action-bar-cart-item.play-button.small, .play-button.large, .gb_v, .menu-link.id-no-menu-change.not-selected, #play-header, .redeem-term-links, #maia-footer-global, .gb_y, .gb_Vb.gb_db, .gb_0, .gb_zb, .gb_6, .gb_yb, .gb_Eb, .gb_Hb.gb_hc, .gb_Aa.gb_f, .gb_Sb, .gb_Sb:before {
+.gb_Ub, .gb-reader-container, .play-button.wishlist-content.wishlist-added, .list-row:hover, .ctp-body, .ac-renderer, .cluster-container, .device-selector-dropdown-children, .modal-dialog, .leaf-submenu-link-wrapper:hover, .parent-submenu-link-wrapper:hover, .child-submenu-link-wrapper:hover, .dropdown-submenu, .dropdown-sub-submenu, .body-content-loading-overlay, .details-section, .dropdown-child.selected, .dropdown-child:hover, .dropdown-menu-children, .app-translation-bar, .play-button.icon-button.small.rate-review, .xa, .developer-reply, .GHK2A-RDACB, .windowed > .KX, .gwt-PopupPanel, .gwt-DialogBox, .GC1JCF1CKMC, .GC1JCF1CDKC:hover, .gwt-PopupPanelGlass, .GC1JCF1COAB sidebar li:hover, .GC1JCF1CEY, #search-section.rounded, .action-bar-link.action-bar-cart-item.play-button.small, .play-button.large, .gb_v, .menu-link.id-no-menu-change.not-selected, #play-header, .redeem-term-links, #maia-footer-global, .gb_y, .gb_Vb.gb_db, .gb_0, .gb_zb, .gb_6, .gb_yb, .gb_Eb, .gb_Hb.gb_hc, .gb_Aa.gb_f, .gb_Sb, .gb_Sb:before, .gb_Xb {
 	background-color: rgba(0, 0, 0, 0.6) !important;
 }
 .hover-target:hover, .play-button.wishlist-content.wishlist-remove, .overflow-menu-item:hover, .track-list-row:hover td, .track-list-row.playing td, .track-list-row.loading td, .device-table, .apps .ctp-header.no-banner, .ac-active, .gb_t, .Bc, .gb_r, .device-selected, .device-selector-dropdown-child:hover, .permissions-container, .modal-dialog-overlay, .details-info, .review-panel-content, .footer, .GC1JCF1CIKC, .GC1JCF1CDKC.GC1JCF1CCKC, .GC1JCF1CGAC, .GC1JCF1CGY.GC1JCF1CMX, .GC1JCF1COAB sidebar li.GC1JCF1CABB, .GC1JCF1CEY.GC1JCF1COX, .purchase-row, .GC1JCF1CPAD, .GC1JCF1CDHD, .GC1JCF1CAUD > li, ol.GC1JCF1CA2, .GC1JCF1CAAC, .GC1JCF1CIV:hover, .GC1JCF1CIW:hover, .GC1JCF1CLAC, .rated-scrim, .action-bar-aux .action-bar-link:hover, #maia-footer-local, .gb_w, .gb_D {
@@ -101,90 +101,90 @@ a:link, a:visited, a:active {
 }
 /* IMAGES */
 .expand-next .button-image, .expand-next .arrow-image {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/next.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/next.png") !important;
 }
 .expand-prev .button-image, .expand-prev .arrow-image {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/prev.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/prev.png") !important;
 }
 .write-review-triangle-container {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/triangle.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/triangle.png") !important;
 }
 .app-translation-bar .translation-bar-arrow {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/triangle_small.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/triangle_small.png") !important;
 }
 .review-panel-close {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/close.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/close.png") !important;
 }
 .expand-close .close-image {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/min.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/min.png") !important;
 }
 .action-bar-item.settings-gear-menu .dropdown-icon {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/settings.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/settings.png") !important;
 }
-.gb_Sa {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/icons.png") !important;
+.gb_Ta {
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/icons.png") !important;
 }
 .wishlist-yet-to-add .wishlist-icon {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/b.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/b.png") !important;
 }
 .wishlist-remove .wishlist-icon {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/remove_bookmark.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/remove_bookmark.png") !important;
 }
 .clock {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/time.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/time.png") !important;
 }
 .compatibility-ok-img {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/ok.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/ok.png") !important;
 }
 .compatibility-no-img {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/no.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/no.png") !important;
 }
 .spam-flag {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/flag.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/flag.png") !important;
 }
 .thumbs-up {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/good.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/good.png") !important;
 }
 .thumbs-down {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/bad.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/bad.png") !important;
 }
 .thumbs-up.selected {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/good_sel.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/good_sel.png") !important;
 }
 .thumbs-down.selected {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/bad_sel.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/bad_sel.png") !important;
 }
 .dropdown-icon {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dropdown.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dropdown.png") !important;
 }
 .GC1JCF1COYB {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev1.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev1.png") !important;
 }
 .GC1JCF1CIHB {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev2.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev2.png") !important;
 }
 .GC1JCF1CPYB {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev3.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev3.png") !important;
 }
 .GC1JCF1CCAB {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev4.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/dev4.png") !important;
 }
 .GC1JCF1CN1 {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/lines.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/lines.png") !important;
 }
 .GC1JCF1CKAC {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/search.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/search.png") !important;
 }
 .GC1JCF1CF5 {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/wallet.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/wallet.png") !important;
 }
 .GC1JCF1CNAB div {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/v.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/v.png") !important;
 }
 .action-bar-link.action-bar-cart-item:before {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/cart.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/cart.png") !important;
 }
 .empty-cart-icon {
-	background-image: url("http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/cart_large.png") !important;
+	background-image: url("https://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/images/cart_large.png") !important;
 }
 }
